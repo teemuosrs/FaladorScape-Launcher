@@ -40,7 +40,17 @@ No admin rights are used. The install is fully contained in that folder.
 
 ## Release workflow (YOU, after every bot update)
 
-Run these two commands from the repo root:
+**One click:** double-click `UpdateGithub.bat` at the repo root. It:
+
+1. rebuilds the launcher exes (`build_launcher.ps1`),
+2. rebuilds the whole distribution + `version.json` (`build_game_dist.ps1`),
+3. mirrors `launcher/web/` into `Desktop\FaladorScape-Launcher` (the clone of
+   `teemuosrs/FaladorScape-Launcher`),
+4. commits + pushes to GitHub,
+5. verifies every manifest file is anonymously reachable on
+   `raw.githubusercontent.com`.
+
+Or run the same steps manually:
 
 ```
 # 1. Rebuild the launcher exes (only needed when Launcher.cs/Updater.cs changed)
