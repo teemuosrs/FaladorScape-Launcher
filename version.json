@@ -181,7 +181,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  29184,
-                      "sha256":  "426192a63b73c1545c6bdef433e0dc6796da72c49248ff040eaa6ffc3c237eaf",
+                      "sha256":  "8e41422b8e80389ccfff834bfcbd8df99e7e0a0fdb6a3b998d654918f7765656",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -189,7 +189,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "7feaaa36de1cc382121c46d996bfad1604b89847880da63ca647d783066873ef",
+                      "sha256":  "69d8fef272bf7a41b526adb07a15138e2e23f469f5b586f37426a3a28fe58f4b",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
