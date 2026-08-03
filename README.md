@@ -1,0 +1,2 @@
+# FaladorScape-Launcher
+Launcher
