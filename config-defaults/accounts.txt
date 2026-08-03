@@ -1,0 +1,3 @@
+# Saved FaladorScape bot accounts (username=password)
+vaser=dasistgut0000
+gammagoblin=qwerty123

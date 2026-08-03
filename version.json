@@ -1,0 +1,206 @@
+﻿{
+    "launcherVersion":  "1.0.0",
+    "botVersion":  "1.0.20260803",
+    "manifestVersion":  1785752967,
+    "baseUrl":  "",
+    "entryPoint":  "bot.ui.DashboardFrame",
+    "classpath":  [
+                      "FaladorScapeBot.jar",
+                      "client.jar"
+                  ],
+    "jvmArgs":  [
+                    "-Xms256m",
+                    "-Xmx1g"
+                ],
+    "files":  [
+                  {
+                      "path":  "api/items.txt",
+                      "size":  111738,
+                      "sha256":  "e7d71c3bcc53bb586116630ecb3cc4d48b50b52b9d0a904d03826c155c7ff536",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/npcs.txt",
+                      "size":  52681,
+                      "sha256":  "cbb9626700260e81367c3a69f5879ee6ce1ea68e911eb93362c456890b866c15",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/objects.txt",
+                      "size":  80257,
+                      "sha256":  "7440d50ebee3459673d6b14737eda5b24907263c1f9a081c686a5c3f5df2953b",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/prayers.txt",
+                      "size":  1169,
+                      "sha256":  "80ed797b059bfb6eb2f9fb6982e5de288d284c65471f2112a7b126a93b9906ad",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/quests.txt",
+                      "size":  1312,
+                      "sha256":  "e64dc3d9f9c4f1d940b73f1571d93265a27d8685cdb6e1ebd7c2af2293503ddd",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/skills.txt",
+                      "size":  350,
+                      "sha256":  "c5df83581320bb9622931c386ef3eb57721c4ba594b5c1d929e694aa037cd278",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/spells.txt",
+                      "size":  3487,
+                      "sha256":  "174ae4cab36b00369158bf4da591bbbb2108dd513b9ca8080228fe8e232c4861",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "api/walls.txt",
+                      "size":  11500,
+                      "sha256":  "46b7a0f67be4cea3f3345c11e37168e96c29509fa92357e8109710f89bb23703",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "resources/fonts/UncialAntiqua-Regular.ttf",
+                      "size":  63404,
+                      "sha256":  "33a5128b59d1c95d4f3788164f4ab3a1196f0a982263cb2cd278c47418366766",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "resources/sprites/loading_splash.svg",
+                      "size":  4421,
+                      "sha256":  "a5970a755e4986b998b8ebc0b7727d6ccf4682916d1f3421b088f20bde11115f",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "resources/sprites/monster_background,svg.png",
+                      "size":  2385093,
+                      "sha256":  "887ac620e467b2e21d7cc07fee58dad9d1ab5195d0a2363d5aa462aab6833261",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "config-defaults/accounts.txt",
+                      "size":  99,
+                      "sha256":  "ed2a02db8923b6d0206dcbbc3f9ab40cc451b2e526f389b2c8c6ee52597d0c87",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true,
+                      "dest":  "config/accounts.txt"
+                  },
+                  {
+                      "path":  "config-defaults/settings.properties",
+                      "size":  1710,
+                      "sha256":  "7c89ad4eed09e8b1af3000becd031d985fefc82896bd9d26358f815212416e09",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true,
+                      "dest":  "config/settings.properties"
+                  },
+                  {
+                      "path":  "config-defaults/profiles/barb coal bank.properties",
+                      "size":  1777,
+                      "sha256":  "49dc9f30e5e82e73f32b36d7255c42ae605be890f581e59ab23d9c0e9751da4f",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true,
+                      "dest":  "config/profiles/barb coal bank.properties"
+                  },
+                  {
+                      "path":  "config-defaults/profiles/MyProfile.properties",
+                      "size":  1685,
+                      "sha256":  "3849652d5c30da7f81a7467472bf5e877dfaddce11601200d4f67a78a657e682",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true,
+                      "dest":  "config/profiles/MyProfile.properties"
+                  },
+                  {
+                      "path":  "config-defaults/profiles/test.properties",
+                      "size":  1710,
+                      "sha256":  "4bb12a84abae06c4ca73a495521608497c37e75900ed6754234d995cf8993991",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true,
+                      "dest":  "config/profiles/test.properties"
+                  },
+                  {
+                      "path":  "bot/profiles/Edgeville Dungeon Test.properties",
+                      "size":  2167,
+                      "sha256":  "ed856dc2d5459a18c32671b2f88c09783953830f85f0394f5e8e80586106cfcb",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true
+                  },
+                  {
+                      "path":  "bot/profiles/MyProfile.properties",
+                      "size":  2602,
+                      "sha256":  "2bb620ca56a70f6d0bfe207681023c66a1d17a2b293a519457d0eb343e8d9fa7",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true
+                  },
+                  {
+                      "path":  "FaladorScapeBot.jar",
+                      "size":  1670237,
+                      "sha256":  "9cbe47fca7da749e8559410343a37e7344f79d8f1f85e7159d7cb759316a556c",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "client.jar",
+                      "size":  677732,
+                      "sha256":  "34d5b3254016fae6074deff31b30f7afbd53fd967c5081f6f0b6c57367b40cd0",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "FaladorScapeLauncher.exe",
+                      "size":  29184,
+                      "sha256":  "426192a63b73c1545c6bdef433e0dc6796da72c49248ff040eaa6ffc3c237eaf",
+                      "extract":  false,
+                      "launcher":  true,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "Updater.exe",
+                      "size":  7680,
+                      "sha256":  "7feaaa36de1cc382121c46d996bfad1604b89847880da63ca647d783066873ef",
+                      "extract":  false,
+                      "launcher":  true,
+                      "prot":  false
+                  },
+                  {
+                      "path":  "runtime.zip",
+                      "size":  35654548,
+                      "sha256":  "c7fcb3cd130f62dcfde6e20de3b19daed046da2656f7ad1bd8073341e8a4df66",
+                      "extract":  true,
+                      "launcher":  false,
+                      "prot":  false
+                  }
+              ]
+}

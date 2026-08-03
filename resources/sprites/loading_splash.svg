@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 346">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1410;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#121212;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:0" />
+    </linearGradient>
+    <filter id="fuzzy">
+      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="512" height="346" fill="url(#bg)"/>
+  <!-- Glow orbs -->
+  <circle cx="100" cy="60" r="80" fill="url(#glow)"/>
+  <circle cx="412" cy="280" r="100" fill="url(#glow)"/>
+  <!-- Ground silhouette -->
+  <ellipse cx="256" cy="330" rx="300" ry="40" fill="#0a0705"/>
+  <ellipse cx="256" cy="330" rx="250" ry="25" fill="#080505"/>
+  <!-- Castle silhouette - left tower -->
+  <rect x="80" y="200" width="30" height="120" fill="#1a1510" rx="2"/>
+  <rect x="75" y="195" width="40" height="10" fill="#1a1510" rx="1"/>
+  <rect x="82" y="190" width="26" height="8" fill="#1a1510" rx="1"/>
+  <!-- Castle - main building -->
+  <rect x="180" y="180" width="140" height="140" fill="#1a1510" rx="3"/>
+  <rect x="175" y="175" width="150" height="10" fill="#1a1510" rx="1"/>
+  <!-- Castle windows -->
+  <rect x="195" y="200" width="16" height="20" fill="#FFD700" opacity="0.3" rx="2"/>
+  <rect x="225" y="200" width="16" height="20" fill="#FFD700" opacity="0.3" rx="2"/>
+  <rect x="255" y="200" width="16" height="20" fill="#FFD700" opacity="0.3" rx="2"/>
+  <rect x="285" y="200" width="16" height="20" fill="#FFD700" opacity="0.3" rx="2"/>
+  <!-- Castle gate -->
+  <rect x="230" y="260" width="40" height="50" fill="#0a0705" rx="3"/>
+  <path d="M230 260 Q250 240 270 260" fill="#0a0705"/>
+  <!-- Castle - right tower -->
+  <rect x="390" y="210" width="30" height="110" fill="#1a1510" rx="2"/>
+  <rect x="385" y="205" width="40" height="10" fill="#1a1510" rx="1"/>
+  <rect x="392" y="200" width="26" height="8" fill="#1a1510" rx="1"/>
+  <!-- Falcon silhouette flying -->
+  <path d="M256 140 Q260 135 268 138 L264 130 Q270 133 275 128 Q272 135 278 140 Q270 138 264 142 Z" fill="#2a1f10" opacity="0.8"/>
+  <path d="M240 135 Q246 138 253 136 L250 130 Q256 132 258 128 Q255 134 260 138 Z" fill="#2a1f10" opacity="0.6"/>
+  <!-- Title text area -->
+  <rect x="156" y="80" width="200" height="50" rx="4" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.5"/>
+  <rect x="158" y="82" width="196" height="46" rx="3" fill="#FFD700" opacity="0.08"/>
+  <!-- Large FaladorScape text -->
+  <text x="256" y="112" font-family="serif" font-size="28" font-weight="bold" fill="#FFD700" text-anchor="middle" letter-spacing="3">FALADORSCAPE</text>
+  <!-- Decorative line under title -->
+  <line x1="180" y1="124" x2="332" y2="124" stroke="#FFD700" stroke-width="1" opacity="0.4"/>
+  <!-- Loading indicator - pulsing dots -->
+  <circle cx="236" cy="300" r="4" fill="#FFD700" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle cx="252" cy="300" r="4" fill="#FFD700" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  <circle cx="268" cy="300" r="4" fill="#FFD700" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <!-- Ground fog -->
+  <rect x="0" y="320" width="512" height="26" fill="#ffd700" opacity="0.03"/>
+  <!-- Bottom gold line -->
+  <line x1="140" y1="140" x2="372" y2="140" stroke="#FFD700" stroke-width="0.5" opacity="0.3"/>
+  <!-- Server/status text -->
+  <text x="256" y="270" font-family="sans-serif" font-size="13" fill="#888" text-anchor="middle" letter-spacing="2">CONNECTING</text>
+  <!-- Small decorative elements -->
+  <rect x="156" y="144" width="8" height="8" fill="#FFD700" opacity="0.15" rx="1"/>
+  <rect x="348" y="144" width="8" height="8" fill="#FFD700" opacity="0.15" rx="1"/>
+</svg>
