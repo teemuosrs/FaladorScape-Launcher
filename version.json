@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260803",
-    "manifestVersion":  1785757965,
+    "manifestVersion":  1785758615,
     "baseUrl":  "",
     "entryPoint":  "bot.ui.DashboardFrame",
     "classpath":  [
@@ -102,70 +102,9 @@
                       "prot":  false
                   },
                   {
-                      "path":  "config-defaults/accounts.txt",
-                      "size":  99,
-                      "sha256":  "ed2a02db8923b6d0206dcbbc3f9ab40cc451b2e526f389b2c8c6ee52597d0c87",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true,
-                      "dest":  "config/accounts.txt"
-                  },
-                  {
-                      "path":  "config-defaults/settings.properties",
-                      "size":  1710,
-                      "sha256":  "7c89ad4eed09e8b1af3000becd031d985fefc82896bd9d26358f815212416e09",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true,
-                      "dest":  "config/settings.properties"
-                  },
-                  {
-                      "path":  "config-defaults/profiles/barb coal bank.properties",
-                      "size":  1777,
-                      "sha256":  "49dc9f30e5e82e73f32b36d7255c42ae605be890f581e59ab23d9c0e9751da4f",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true,
-                      "dest":  "config/profiles/barb coal bank.properties"
-                  },
-                  {
-                      "path":  "config-defaults/profiles/MyProfile.properties",
-                      "size":  1685,
-                      "sha256":  "3849652d5c30da7f81a7467472bf5e877dfaddce11601200d4f67a78a657e682",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true,
-                      "dest":  "config/profiles/MyProfile.properties"
-                  },
-                  {
-                      "path":  "config-defaults/profiles/test.properties",
-                      "size":  1710,
-                      "sha256":  "4bb12a84abae06c4ca73a495521608497c37e75900ed6754234d995cf8993991",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true,
-                      "dest":  "config/profiles/test.properties"
-                  },
-                  {
-                      "path":  "bot/profiles/Edgeville Dungeon Test.properties",
-                      "size":  2167,
-                      "sha256":  "ed856dc2d5459a18c32671b2f88c09783953830f85f0394f5e8e80586106cfcb",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true
-                  },
-                  {
-                      "path":  "bot/profiles/MyProfile.properties",
-                      "size":  2602,
-                      "sha256":  "2bb620ca56a70f6d0bfe207681023c66a1d17a2b293a519457d0eb343e8d9fa7",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  true
-                  },
-                  {
                       "path":  "FaladorScapeBot.jar",
                       "size":  1670333,
-                      "sha256":  "7126e837332801dfd0db7aa0fb245934be5ceba5b5abf0528ceef0f7973c8f40",
+                      "sha256":  "0eee90c3e179fa8b8f25cc237cbe1c7ded57c6c715f51aa504a7092d743a7e8e",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -181,7 +120,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  29184,
-                      "sha256":  "6f37e0c3c4adc1e8e565876b4413dde2cf06b4ea51cfe7c82a9fcffca6d525d4",
+                      "sha256":  "3e763309714347df659dcbb05d4bd1116d552805aebbef99acd03a80fb4c62fc",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -189,7 +128,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "b21ff1f25ade9e3f9749b7221b68a68b9b961311a196a16ca0fa6986594ed277",
+                      "sha256":  "94768227a9e828a7ddefde8013d79c29fa9878cf4b2bef3787d4a7abf2132760",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -197,7 +136,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35654548,
-                      "sha256":  "e7760647409497154af243ae29a84687c8de7ab9adad028c28fd0265fdb770ff",
+                      "sha256":  "18fe403a0e1527ff7569e8fc7e26f5da566c60d92a88091a1252523f6d43bd4a",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
