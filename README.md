@@ -28,12 +28,7 @@ Update location (launcher/web/)
 
 1. Put `FaladorScapeLauncher.exe` in an empty folder.
 2. Run it once.
-3. First run asks for the update location
-   (`Enter the update manifest URL (https://host/path/version.json)`) - paste
-   the manifest URL once, it is saved to `launcher-config.json`, then the
-   run continues normally. If `launcher-config.json` is already present the
-   prompt is skipped.
-4. It downloads everything, verifies every SHA-256, launches the bot.
-5. Every later run = check manifest -> download only changed files -> launch.
+3. It downloads everything, verifies every SHA-256, launches the bot.
+4. Every later run = check manifest -> download only changed files -> launch.
 
 No admin rights are used. The install is fully contained in that folder.
