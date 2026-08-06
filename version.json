@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260806",
-    "manifestVersion":  1786021528,
+    "manifestVersion":  1786022290,
     "baseUrl":  "",
     "entryPoint":  "bot.ui.DashboardFrame",
     "classpath":  [
@@ -104,7 +104,7 @@
                   {
                       "path":  "FaladorScapeBot.jar",
                       "size":  2003438,
-                      "sha256":  "502677fc7175c8288cf5a21d7acc413c0bbc2eeb68c12be36b871082acf59b2d",
+                      "sha256":  "3f60401095b85ef442ef97ced77e969c15f04257c58790c4f759f7e34c2f6252",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -136,7 +136,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "a117ff256959548b173cbb9a1ac56be7440a3e0c0fee7c0efc77be4957837472",
+                      "sha256":  "bcb0cee6eeb65ef8915a46b031e17141b02b817e02912d40de2b605de0796d53",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
