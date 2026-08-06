@@ -748,7 +748,7 @@
 [747] name='Guard' desc='He looks like he's in over his head here' combat=28
 [748] name='Guard Dog' desc='He doesn't seem pleased to see me' combat=46
 [749] name='Guard' desc='***EMPTY PLEASE USE OR REPLACE***' combat=8
-[750] name='Man' desc='A thirsty looking man' combat=9
+[11] name='Man' desc='A thirsty looking man' combat=9
 [751] name='Anna Sinclair' desc='The first child of the late Lord Sinclair' combat=9
 [752] name='Bob Sinclair' desc='The second child of the late Lord Sinclair' combat=9
 [753] name='Carol Sinclair' desc='The third child of the late Lord Sinclair' combat=9
