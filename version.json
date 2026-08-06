@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260806",
-    "manifestVersion":  1786011527,
+    "manifestVersion":  1786017586,
     "baseUrl":  "",
     "entryPoint":  "bot.ui.DashboardFrame",
     "classpath":  [
@@ -103,8 +103,8 @@
                   },
                   {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  1995556,
-                      "sha256":  "01a443b6f353461133f3997f09709c1ecdfffe50ac626f064bf893931676aa3c",
+                      "size":  1998733,
+                      "sha256":  "e30073329c138f8e8b8283236dc406322e6ae75d0b03531608b927e5ea374005",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -120,7 +120,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  29184,
-                      "sha256":  "97dc9c1f987fec8af05a8cdc0640cf15c82b0640af08ea0273ffb06f83fcc291",
+                      "sha256":  "31c6ee1a7a9576ff53220734f706ae184a35fac57a2042f19e02bd53986b8276",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -128,7 +128,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "17afb35cde54a069e5eb0adf0b6abe0c4e9574e9b2d767ba7290596734a3534e",
+                      "sha256":  "93d0c596fb3492b265cad38f6cfce6b3099868d26de3193aa61be9ceb1aeae9e",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -136,7 +136,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35654548,
-                      "sha256":  "3454624a017b1086776a633b14978762200aaa5679cad75dd11cc2e5200396f5",
+                      "sha256":  "99262de4f8a419d9e7943b860d27222dbaeb157bfc4565b59ac564e08037c180",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
