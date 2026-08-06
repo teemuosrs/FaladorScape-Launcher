@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260806",
-    "manifestVersion":  1786020284,
+    "manifestVersion":  1786020643,
     "baseUrl":  "",
     "entryPoint":  "bot.ui.DashboardFrame",
     "classpath":  [
@@ -104,7 +104,7 @@
                   {
                       "path":  "FaladorScapeBot.jar",
                       "size":  2003438,
-                      "sha256":  "a6ddaea0fac0e23b6cd12f65463f1510ca899a5f042a51d707712e96e9a9f42b",
+                      "sha256":  "c8b296459dafc67edfa0c73b3ce52dfd61b329ae6af6c65be7737ed1e76bc857",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -120,7 +120,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  29184,
-                      "sha256":  "c47f1921df6c95e438b213c9b1f321374b084210881aa9df057b2c5cf21f5884",
+                      "sha256":  "486ed2303e4c25082e38b17f93c92a405ddc90fc49e624231e153fdf318a29e1",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -128,15 +128,15 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "2cd11124c1b5603f2003d0d3bf3c00b6a175cfdf49f96047dfbb7daf28027370",
+                      "sha256":  "03bd136292e601d109ab0d667148e6dabd2a004f6c827f23983a9c1229ea7bea",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
                   },
                   {
                       "path":  "runtime.zip",
-                      "size":  35654548,
-                      "sha256":  "0e6270432cde7a0d4a97ae65da73a84b5016bcb48677c181ffe6abbf3acff8c3",
+                      "size":  35671388,
+                      "sha256":  "56380341b3e8274cdd36f035a548cbe4e178255143c3d0c4e1df8c2d11026a44",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
