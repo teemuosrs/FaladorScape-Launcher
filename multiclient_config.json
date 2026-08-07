@@ -1,0 +1,9 @@
+{
+    "cols":  2,
+    "bot_enabled":  true,
+    "jar_path":  "",
+    "java_path":  "",
+    "bot_core_path":  "",
+    "count":  1,
+    "bot_port_base":  15000
+}

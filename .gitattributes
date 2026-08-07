@@ -1,4 +1,0 @@
-# Keep every file byte-identical on commit: the launcher byte-verifies
-# SHA-256 and sizes against version.json, so git must NOT normalize line
-# endings (CRLF <-> LF) or apply any content filters.
-* -text
