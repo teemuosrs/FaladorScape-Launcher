@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260807",
-    "manifestVersion":  1786105949,
+    "manifestVersion":  1786106676,
     "baseUrl":  "",
     "entryPoint":  "bot.ui.ClientLauncher",
     "classpath":  [
@@ -104,7 +104,7 @@
                   {
                       "path":  "FaladorScapeBot.jar",
                       "size":  1867825,
-                      "sha256":  "14a15053101948691b54b038f0f7a7c66716f40ec209e28dce039e7b0dcbfb76",
+                      "sha256":  "85b3286b521e40a9eb7e05f5969c6d07e7dbe517a36c74d3482442e254af82c6",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -120,7 +120,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  30208,
-                      "sha256":  "ae5748d586d1ccb8a0043afd88c47b3dff37dca83422d98af4cd948f8e329cf7",
+                      "sha256":  "5a19f3ef61e5434055e1cdf2df27cbe95d9a3a50e7c00f9303b20c4e412a4820",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -128,7 +128,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "95c08dff0ebac1b04358db9dd2a04c1bf77190ee5f122840b1a0633a66b3e5af",
+                      "sha256":  "f5f021891aebf12395dc4801dfc86b493d7d97fa6c2912c9b8715d9f108c104e",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -136,7 +136,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "7832ab937bfff13321766941788bea15ec765419f46f3721ca1891a526c8d57f",
+                      "sha256":  "a1c012f4ef8bea7dd5ebead5ae46fd56868765eff543407aeda4abe3219188d9",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
