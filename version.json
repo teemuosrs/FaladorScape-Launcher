@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260807",
-    "manifestVersion":  1786109955,
+    "manifestVersion":  1786110469,
     "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
@@ -95,8 +95,8 @@
                   },
                   {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  1868929,
-                      "sha256":  "06b2fc67dfa31fb6f899300459ae5c2d93d460911f5956ae66ae3945c68c25f7",
+                      "size":  1868992,
+                      "sha256":  "700a1583214135d4be518b8335eaad4017c28676c553cfe96bf150f406d3dec4",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -127,8 +127,8 @@
                   },
                   {
                       "path":  "bot-core.zip",
-                      "size":  810464,
-                      "sha256":  "6d2af6ccf10b0fe3d92517601e99f5808fcbed02b4745ec2323cedbaf53361e3",
+                      "size":  810527,
+                      "sha256":  "88bd56e41994273f7515ac1182a092c38aa03f9d72f8d8b0ae0be74acb859a15",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
@@ -160,7 +160,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "35a3a3d49e96db92deb81db372bb76d837e96fdc20165e4e76eb7338176e235c",
+                      "sha256":  "9995ad1a3cc95a857b111368cce2f64b9647a7ca58a4125c32bbda660b8b21ef",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
