@@ -118,7 +118,7 @@ START
       Updater.exe verifies + swaps + relaunches --updated
   download + verify + atomically replace ONLY changed files
   extract runtime.zip when the bundled JRE changed
-  launch: <runtime>\bin\java.exe -cp FaladorScapeBot.jar;client.jar;. bot.ui.DashboardFrame
+  launch: <runtime>\bin\java.exe -cp FaladorScapeBot.jar;client.jar;. bot.ui.ClientLauncher
 ```
 
 Notable behaviour:

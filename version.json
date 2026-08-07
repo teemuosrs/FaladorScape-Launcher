@@ -1,9 +1,9 @@
 {
     "launcherVersion":  "1.0.0",
     "botVersion":  "1.0.20260807",
-    "manifestVersion":  1786105215,
+    "manifestVersion":  1786105718,
     "baseUrl":  "",
-    "entryPoint":  "bot.ui.DashboardFrame",
+    "entryPoint":  "bot.ui.ClientLauncher",
     "classpath":  [
                       "FaladorScapeBot.jar",
                       "client.jar"
@@ -104,7 +104,7 @@
                   {
                       "path":  "FaladorScapeBot.jar",
                       "size":  1992185,
-                      "sha256":  "70476eff814c64b74f4b0b53acb1f110209d9e0dcd852e1d8a490af216188b23",
+                      "sha256":  "44afc6d649349c1ae64ec8ebbe4a905edafadd93415f200b287e3a908391569a",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -120,7 +120,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  30208,
-                      "sha256":  "391b0338b18eea46d7ebc4d2443c49084399f2c716cbf91f1c1d40c97263b2fb",
+                      "sha256":  "ae5748d586d1ccb8a0043afd88c47b3dff37dca83422d98af4cd948f8e329cf7",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -128,7 +128,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "58eb24aa1c99326e91db0e26d14640d8e4908c95ad39026f599f8f7c80bdfaee",
+                      "sha256":  "95c08dff0ebac1b04358db9dd2a04c1bf77190ee5f122840b1a0633a66b3e5af",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -136,7 +136,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "4c1daead6cb99aa906e5e6d3db280aea0bb5146d121227633d805f64a1283620",
+                      "sha256":  "0f2a61e3b080ee6841ecac3c7569f5d2d3630b29e9b2bb4d0af9353ffdd9df14",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
