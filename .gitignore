@@ -1,0 +1,7 @@
+# FaladorScape-Launcher distribution repo - ignore generated/extracted junk.
+runtime/
+hide/
+.idea/
+*.log
+*.tmp
+*.part
