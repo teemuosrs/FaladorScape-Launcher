@@ -1,7 +1,7 @@
 {
     "launcherVersion":  "1.0.1",
     "botVersion":  "1.0.20260808",
-    "manifestVersion":  1786192413,
+    "manifestVersion":  1786201410,
     "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
@@ -78,25 +78,17 @@
                       "prot":  false
                   },
                   {
-                      "path":  "resources/sprites/loading_splash.svg",
-                      "size":  4421,
-                      "sha256":  "a5970a755e4986b998b8ebc0b7727d6ccf4682916d1f3421b088f20bde11115f",
-                      "extract":  false,
-                      "launcher":  false,
-                      "prot":  false
-                  },
-                  {
-                      "path":  "resources/sprites/monster_background,svg.png",
-                      "size":  2385093,
-                      "sha256":  "887ac620e467b2e21d7cc07fee58dad9d1ab5195d0a2363d5aa462aab6833261",
+                      "path":  "resources/sprites/ChatGPT Image Aug 8, 2026, 11_08_45 AM (1).png",
+                      "size":  2257460,
+                      "sha256":  "0f40484c9a453bf546234c519a1eba06bafb84725b4f4ce062f175862084180a",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
                   },
                   {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  1903773,
-                      "sha256":  "6bf98311d6b46783732ac41f10955c3d0a326aeb1bcfa4a6d0a506838c9ff28d",
+                      "size":  1903777,
+                      "sha256":  "90f3c42e3000b0228f4823c87403d00393902a30f1b4ed8afe754b2b249132b8",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -111,8 +103,8 @@
                   },
                   {
                       "path":  "RSCMultiClient.jar",
-                      "size":  232960,
-                      "sha256":  "be2d6ec1f85a89d8aa57d82a5ffb3c70932a8a184bdea2177387adbfbabccdb1",
+                      "size":  229244,
+                      "sha256":  "950eb71c056b67aacf040ea4410c5c497189d15191e18cbff0c112120b93a1ed",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -127,8 +119,8 @@
                   },
                   {
                       "path":  "bot-core.zip",
-                      "size":  753096,
-                      "sha256":  "07f74238e13939820aae8e08f27c928b0c6239fab476f65e08aae6ee7461785d",
+                      "size":  753100,
+                      "sha256":  "148a33a974ce7404c75965e6eb2c11b7e3b41b3b7d9d70b0619d31c55a93e03b",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
@@ -144,7 +136,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  32768,
-                      "sha256":  "b6e88d3095e763fe5a94c018e3453509f6071e10a6c5af371f584b8ab72e707e",
+                      "sha256":  "a5dbf614428f1016108cb5b9ae68870dd08fea10ddc2a08ed3e95dcf8266c0f6",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -152,7 +144,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "135c258cd47829bbc6091cb31b70961f20f2b4b260b82b9d31cbb27b3dfc4747",
+                      "sha256":  "1ae9067025c37567c774e76e700f1ac6955dbd836910eacb15ef3d393e4a9925",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -160,7 +152,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "5f90325bfcf1e29e150f9a4bb5114933d358bd656fff475fd9acd5432d4858d8",
+                      "sha256":  "6ef78af1e65baa2b32c952a441a89094ff400719ba0502628b2a6f4a64df9d75",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
