@@ -2,7 +2,7 @@
     "launcherVersion":  "1.0.3",
     "botVersion":  "1.0.20260810",
     "manifestVersion":  1786373625,
-    "baseUrl":  "",
+    "baseUrl":  "https://raw.githubusercontent.com/teemuosrs/FaladorScape-Launcher/0275c320203c9741527e2a6f9f6a714cdc00c0d6/",
     "launchTool":  "RSCMultiClient",
     "files":  [
                   {
