@@ -1,8 +1,9 @@
 {
     "launcherVersion":  "1.2.1",
     "botVersion":  "1.0.20260813",
-    "manifestVersion":  1786611646,
-    "baseUrl":  "https://raw.githubusercontent.com/teemuosrs/FaladorScape-Launcher/adb7dfb9723b1c0f0fd56338dc26e9c6563a785c/",
+    "releaseVersion":  2,
+    "manifestVersion":  1786661153,
+    "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
                   {
@@ -94,9 +95,25 @@
                       "prot":  false
                   },
                   {
+                      "path":  "Profiles/edge cooker raw tuna.properties",
+                      "size":  17114,
+                      "sha256":  "a6b7fe0841b5d64cd1e9dd65769f3602d196c9ee9dae0c11460d8f6ef6e3867b",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true
+                  },
+                  {
+                      "path":  "Profiles/varrock iron banker v2.properties",
+                      "size":  16998,
+                      "sha256":  "77ee2fb877a7e34a6523607c818c15bc866161a76882b54254ff7ca28187930b",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true
+                  },
+                  {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  2267948,
-                      "sha256":  "668d5c07c33e7a53c4e74ce30b0cb3281c338b35a9f43ae38184a74a2916ae9b",
+                      "size":  2157964,
+                      "sha256":  "abe7cfecae18da5ad46e5adbff9d99619229c283a1ccdbbba389d5f3f4662d3d",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -111,8 +128,8 @@
                   },
                   {
                       "path":  "RSCMultiClient.jar",
-                      "size":  254978,
-                      "sha256":  "1e9b6bc8751f65438d1be30f4fe15180f30599152626072ab548aa4a62f0d9a6",
+                      "size":  256875,
+                      "sha256":  "ed7af9a8ad1954b1ed965252bb9ec350216252e75c685e2814e458dca3e9df54",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -127,8 +144,8 @@
                   },
                   {
                       "path":  "bot-core.zip",
-                      "size":  1211387,
-                      "sha256":  "4c567b1e4ef7c4e825cf0ab8c3963794d5549b74075d92438a4e9de051f3cd11",
+                      "size":  1998282,
+                      "sha256":  "5c0d7cf18c73cf11cee9c6049b2f2428300b4a121193234a276a1f42c5cfd9cc",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
@@ -143,24 +160,24 @@
                   },
                   {
                       "path":  "FaladorScapeLauncher.exe",
-                      "size":  39424,
-                      "sha256":  "2ffd587a2b4beebb034f192195757e04ec622a86b8ad0382de014eaa8d4b4cde",
+                      "size":  46592,
+                      "sha256":  "4838b3721ea9c348cbbe42b3625f4e66b8fe9c3ad617ede7a18648d96c0e22ee",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
                   },
                   {
                       "path":  "Updater.exe",
-                      "size":  7680,
-                      "sha256":  "ecd444f0e3004ff514ed93c30255d2cb64e552ccc7f30daade6b260900fab106",
+                      "size":  8192,
+                      "sha256":  "859fe8b6d72ce4e2a1c69c47dd14b124ef48b8a75b3d44021751e46839b344da",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
                   },
                   {
                       "path":  "runtime.zip",
-                      "size":  35671388,
-                      "sha256":  "81076949fa55d986d9c337301959ce779698894efc62c1efa42f2579bedf62f5",
+                      "size":  35826350,
+                      "sha256":  "469e771b6a6c22a3ba96e3ff2110297822044d9a0ead02ca1a82883480fefbd5",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
