@@ -1,8 +1,8 @@
 {
     "launcherVersion":  "1.2.1",
-    "botVersion":  "1.0.20260812",
-    "manifestVersion":  1786578443,
-    "baseUrl":  "https://raw.githubusercontent.com/teemuosrs/FaladorScape-Launcher/8916dc0d9d0d1b672beaa324ad25970864aec7e5/",
+    "botVersion":  "1.0.20260813",
+    "manifestVersion":  1786611646,
+    "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
                   {
@@ -95,8 +95,8 @@
                   },
                   {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  2265234,
-                      "sha256":  "5b8aea50c37b1abf8c3efc472c461e85a5ec3ff1f88f63907187ef7bcd4a5b59",
+                      "size":  2267948,
+                      "sha256":  "668d5c07c33e7a53c4e74ce30b0cb3281c338b35a9f43ae38184a74a2916ae9b",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -127,8 +127,8 @@
                   },
                   {
                       "path":  "bot-core.zip",
-                      "size":  1208673,
-                      "sha256":  "b616125f1537622648023a446512f518e517a7e32d5648480da226ed9b12a373",
+                      "size":  1211387,
+                      "sha256":  "4c567b1e4ef7c4e825cf0ab8c3963794d5549b74075d92438a4e9de051f3cd11",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
@@ -144,7 +144,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  39424,
-                      "sha256":  "85384d685e5ccf97acfac462ffb9850ac56072325564322457d991464c142e74",
+                      "sha256":  "2ffd587a2b4beebb034f192195757e04ec622a86b8ad0382de014eaa8d4b4cde",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -152,7 +152,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  7680,
-                      "sha256":  "c2e8310da44632283ad6f9ce770105e1d43571e397107dff2baa43b5388ca908",
+                      "sha256":  "ecd444f0e3004ff514ed93c30255d2cb64e552ccc7f30daade6b260900fab106",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -160,7 +160,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35671388,
-                      "sha256":  "23647ede3ea479a6fe365f6be8e6eb551267601073137cd8d9ae7db943f623a5",
+                      "sha256":  "81076949fa55d986d9c337301959ce779698894efc62c1efa42f2579bedf62f5",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
