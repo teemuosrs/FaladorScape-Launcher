@@ -1,9 +1,9 @@
 {
     "launcherVersion":  "1.2.1",
     "botVersion":  "1.0.20260817",
-    "releaseVersion":  21,
-    "manifestVersion":  1786967036,
-    "baseUrl":  "https://raw.githubusercontent.com/teemuosrs/FaladorScape-Launcher/6644277c291e70510d47278c613c58badc74fe80/",
+    "releaseVersion":  22,
+    "manifestVersion":  1786981421,
+    "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
                   {
@@ -95,6 +95,14 @@
                       "prot":  false
                   },
                   {
+                      "path":  "Profiles/edge cooker tunas.properties",
+                      "size":  17707,
+                      "sha256":  "c2ba0330b2d036d215d4fe27e3f9dfc6308bb97b3851891200939855cd62c795",
+                      "extract":  false,
+                      "launcher":  false,
+                      "prot":  true
+                  },
+                  {
                       "path":  "Profiles/guild coal.properties",
                       "size":  17775,
                       "sha256":  "657ad9823a018ad899613742013145acde7a1f259404da3f2aefe282e04fc298",
@@ -112,8 +120,8 @@
                   },
                   {
                       "path":  "FaladorScapeBot.jar",
-                      "size":  2327818,
-                      "sha256":  "4667388e2978db7b52cb762c1227e6295825e47f4321944337f0abb6c2ca641b",
+                      "size":  2340884,
+                      "sha256":  "efef2ec71f7538eb57d2d3ecb53c11a9c3f8dba526282bb40d0878918c99c8a7",
                       "extract":  false,
                       "launcher":  false,
                       "prot":  false
@@ -152,8 +160,8 @@
                   },
                   {
                       "path":  "bot-core.zip",
-                      "size":  2201058,
-                      "sha256":  "25a961f334aa9a50fe3c6fb455d36d8d49acac78f223d1f5c2b0c48131e4b2e9",
+                      "size":  2214196,
+                      "sha256":  "d6a8a09bd66a0729a4c51b61eea1938839a8226ed4e976b4bc943ee34e99f979",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
@@ -169,7 +177,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  51712,
-                      "sha256":  "c2c39d24d475592743b8fad5cd2c4ebeffd64f5a3a9ea41340ecb042f1c58179",
+                      "sha256":  "5a66eb9a187f7ba2f154d61976a16208ba44b6e680a474e93a55bd623a48a84e",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -177,7 +185,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  8192,
-                      "sha256":  "01d7659e9d06b24cea4d065bd730bef6e82cd1bb60d88cd5aad0a8da1af70e1b",
+                      "sha256":  "25323375a61f7fa00e0e6adcdc0a7a3a6b9cd2b230d053bfff79b91c8a99836e",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -185,7 +193,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35826350,
-                      "sha256":  "262ebdd11d5b4977932011f3268bbd9fc7d060f2e06fc3c53d296ef36b54d3c5",
+                      "sha256":  "543251586c01150a2dded2d990e98e63c7af9178fa4421cc1dc1abdfaa88e6ed",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
