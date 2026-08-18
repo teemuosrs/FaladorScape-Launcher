@@ -1,9 +1,9 @@
 {
     "launcherVersion":  "1.2.1",
     "botVersion":  "1.0.20260818",
-    "releaseVersion":  30,
-    "manifestVersion":  1787049722,
-    "baseUrl":  "https://raw.githubusercontent.com/teemuosrs/FaladorScape-Launcher/6792f37f102212cc053578ff39d54668b205708c/",
+    "releaseVersion":  31,
+    "manifestVersion":  1787049871,
+    "baseUrl":  "",
     "launchTool":  "RSCMultiClient",
     "files":  [
                   {
@@ -193,7 +193,7 @@
                   {
                       "path":  "FaladorScapeLauncher.exe",
                       "size":  51712,
-                      "sha256":  "5992a9cde09e39e7c6fffc0e2dfafd8b6032edc2298613621dc678ddda373fb2",
+                      "sha256":  "260dd5495b3dd939f1a50d0b89e55162711b7aab4f5dcdbb04e68ee88df83c49",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -201,7 +201,7 @@
                   {
                       "path":  "Updater.exe",
                       "size":  8192,
-                      "sha256":  "8e3aae6f9beb9a14b180b57fc23704373122e9fe02bd39fc0ec0620e5d4d45dc",
+                      "sha256":  "1023d80af9934862dc7231fbf561bf51dd90adc09054b200f1b172d2a780af4a",
                       "extract":  false,
                       "launcher":  true,
                       "prot":  false
@@ -209,7 +209,7 @@
                   {
                       "path":  "runtime.zip",
                       "size":  35826350,
-                      "sha256":  "52578a26be9352f08c2a18aa155eaa98cfb1e08ef97368ad54b0adabe6c89b29",
+                      "sha256":  "1a28a25ef33bc0e122ddc17c44e36b63e6a7a45e916363f553addfeb6d8f56dd",
                       "extract":  true,
                       "launcher":  false,
                       "prot":  false
